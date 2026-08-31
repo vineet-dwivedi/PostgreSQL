@@ -13,6 +13,8 @@
 | 1 | Introduction | ✅ Done | [Introduction.md](Introduction.md) |
 | 2 | Basic CRUD Operations | ✅ Done |
 [Basic-CRUD-Operations.md](Basic-CRUD-Operations.md) |
+| 3 | Differences and Datatypes| ✅ Done |
+[Differences-and-Datatypes.md](Differences-and-Datatypes.md) |
 | 4 | Clauses, Operators & Aggregation Functions | ✅ Done | [Clauses-Operators-Aggregation.md](Clauses-Operators-Aggregation.md) |
 | 3 | _Next topic_ | ⬜ Not started | — |
 
