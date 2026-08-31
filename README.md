@@ -10,8 +10,10 @@
 
 | # | Topic | Status | Notes |
 |---|---|---|---|
-| 1 | Differences & Data Types | ✅ Done | [Differences-and-Datatypes.md](Differences-and-Datatypes.md) |
-| 2 | Clauses, Operators & Aggregation Functions | ✅ Done | [clauses-operators-aggregation.md](clauses-operators-aggregation.md) |
+| 1 | Introduction | ✅ Done | [Introduction.md](Introduction.md) |
+| 2 | Basic CRUD Operations | ✅ Done |
+[Basic-CRUD-Operations.md](Basic-CRUD-Operations.md) |
+| 4 | Clauses, Operators & Aggregation Functions | ✅ Done | [Clauses-Operators-Aggregation.md](Clauses-Operators-Aggregation.md) |
 | 3 | _Next topic_ | ⬜ Not started | — |
 
 ---
