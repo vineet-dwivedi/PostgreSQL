@@ -10,7 +10,7 @@
 
 | # | Topic | Status | Notes |
 |---|---|---|---|
-| 1 | Differences & Data Types | ✅ Done | [3 - Differences-and-datatypes.md](3 - Differences And Datatypes.md) |
+| 1 | Differences & Data Types | ✅ Done | [differences-and-datatypes.md](differences-and-datatypes.md) |
 | 2 | Clauses, Operators & Aggregation Functions | ✅ Done | [clauses-operators-aggregation.md](clauses-operators-aggregation.md) |
 | 3 | _Next topic_ | ⬜ Not started | — |
 
